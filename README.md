@@ -62,7 +62,7 @@ The project is ready to be hosted. Hosting will be completed once the necessary 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Thank you to [Your Client's Name or Company] for the opportunity to work on this project.
+- Thank you to Wanderlust Tours and Travels for the opportunity to work on this project.
 - Inspiration from various travel websites and web development resources.
 
 ```
